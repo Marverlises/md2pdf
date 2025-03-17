@@ -1,0 +1,4 @@
+# No additional Python packages required beyond the standard library
+# External dependencies:
+# - Pandoc (https://pandoc.org/installing.html)
+# - LaTeX distribution with XeLaTeX (like TeX Live, MiKTeX, or MacTeX) 
