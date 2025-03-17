@@ -1,5 +1,7 @@
 # MD2PDF
 
+[English Documentation](./README.en.md) | 中文文档
+
 一个功能强大的 Markdown 转 PDF 工具，基于 Pandoc 和 XeLaTeX，支持中文、数学公式、代码高亮和图片。
 
 ## 功能特点
